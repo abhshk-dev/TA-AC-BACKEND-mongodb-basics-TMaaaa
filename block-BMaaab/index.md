@@ -4,7 +4,7 @@ Run these shell commands in mongo shell:
 
 - db.version()
 - db.stats()
-- db.help()
+- db.help()  
 
 Write code to
 
