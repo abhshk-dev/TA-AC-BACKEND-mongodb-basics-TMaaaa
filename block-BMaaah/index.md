@@ -30,6 +30,8 @@ Write code to execute below expressions.
   },
   tags: ['js', 'mongo']
 }
+
+
 ```
 
 4. Find all the articles using `db.COLLECTION_NAME.find()`
@@ -171,3 +173,6 @@ Insert above data into database to perform below queries:-
 - Update user with extra golf field in sports array whose name is "Steve Ortega".
 - Find all users who play either 'football' or 'cricket'.
 - Find all users whose name includes 'ri' in their name.
+
+
+db.articles.update()
